@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ContaCorrenteTest" project="conta_corrente_etim_azul" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="conta_corrente_etim_azul.ContaCorrenteTest" time="0.005">
+    <testcase name="testSacarSaldoInsuficiente" classname="conta_corrente_etim_azul.ContaCorrenteTest" time="0.004"/>
+    <testcase name="testDepositar" classname="conta_corrente_etim_azul.ContaCorrenteTest" time="0.0"/>
+    <testcase name="testSacarSaldoSuficiente" classname="conta_corrente_etim_azul.ContaCorrenteTest" time="0.0"/>
+    <testcase name="testTransferir" classname="conta_corrente_etim_azul.ContaCorrenteTest" time="0.0"/>
+  </testsuite>
+</testrun>
